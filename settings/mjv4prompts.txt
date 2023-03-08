@@ -1,0 +1,16 @@
+Imagine and write the perfect compressed describtion with action, surroundings, adjectives and nouns from the following scene:
+
+Scene 1:
+
+The humid air of the Amazon jungle was filled with the sound of chirping birds and the rustle of leaves in the breeze. Sunlight streamed down through the dense foliage and illuminated the narrow path that Jake and Eve had come across. They cautiously made their way down the path and into a small clearing, feeling the dampness of the undergrowth on their shoes and clothes. The clearing was peaceful, as if untouched by modern society. As they looked around, what had first appeared as an unremarkable path turned out to lead to a large, ancient cave.
+
+
+IMAGINE AND WRITE THE PERFECT COMPRESSED DESCRIBTION WITH ACTION, SURROUNDINGS, ADJECTIVES AND NOUNS FROM THE SCENE ABOVE:
+
+Deep Work, lush, humid Amazon jungle, narrow, sun-dappled path, damp undergrowth beneath their feet. reaching a serene clearing, grand, ancient cave, dense foliage --ar 3:2
+
+Imagine and write 5 compressed describtion starting with "deep work"  with actions, surroundings, adjectives and nouns from the following text:
+
+<<SCENE>>
+
+IMAGINE AND WRITE 5 COMPRESSED DESCRIBTION STARTING WITH "DEEP WORK" WITH ACTIONS, SURROUNDINGS, ADJECTIVES AND NOUNS FROM THE TEXT ABOVE:
