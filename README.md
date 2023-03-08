@@ -6,5 +6,8 @@ There are now 2 Versions of the PDF Summarizer - One with text-Davinci-003 and O
 
 # How to install
 python3 -m venv venv
+<br />
 source venv/bin/activate
+<br />
 pip install -r requirements.txt
+<br />
